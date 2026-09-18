@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏠 House Price Predictor
 
 A clean and interactive machine-learning web application that predicts
