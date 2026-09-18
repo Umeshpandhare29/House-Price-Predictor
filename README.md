@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 House Price Predictor
 
 A clean and interactive machine-learning web application that predicts
@@ -257,3 +258,7 @@ demonstrating practical ML application development.
 
 If you find this project useful, consider giving the repository a ⭐ on
 GitHub.
+=======
+# House-Price-Predictor
+House Price Predictor is a machine-learning web application that predicts house prices based on property details such as location, living area, bedrooms, bathrooms, lot size, and house age. It provides fast price predictions along with clear property insights, helping users understand the estimated value of a property
+>>>>>>> a4bbbb22cc806c1e8079a1fd8f575029090e14b6
