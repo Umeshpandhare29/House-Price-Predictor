@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90">
+<rect width="360" height="90" rx="18" fill="#0B1F3A"/>
+<path d="M28 45 58 20l30 25v28H68V56H48v17H28Z" fill="#4F8DF7"/>
+<path d="M24 45 58 16l34 29" fill="none" stroke="#E8F0FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="43" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">House Price</text>
+<text x="108" y="70" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#4F8DF7">Predictor</text>
+</svg>
